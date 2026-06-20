@@ -2,7 +2,7 @@
 
 > 🎁 **Generate working Netflix accounts for free. Premium, Standard, or Basic – you choose.**
 
-![GUI](screen.png)
+![GUI](screen.jpg)
 
 ---
 
